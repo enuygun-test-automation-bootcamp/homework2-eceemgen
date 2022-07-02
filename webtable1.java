@@ -8,5 +8,4 @@ public class webtable1 {
     driver.get(https://demoqa.com/);
 
 
-
 }
