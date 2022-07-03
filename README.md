@@ -4,4 +4,4 @@
 -A unit test was created to test the class.
 -The objects to be used were defined and the test code was written for the screen that was requested to come first on the test screen.
 -Then the questions of 'does the button appear on the screen and can it be pressed ?' were tested.
--HOMEWORK FILES ARE ON THE BRANCH'MASTER'
+-HOMEWORK FILES ARE ON THE BRANCH'MASTER'.
